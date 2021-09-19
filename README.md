@@ -37,6 +37,9 @@ Quick use see the section of *How to use*
 - Reboot
 - Results
 - ![image](https://user-images.githubusercontent.com/43311626/133887871-bc1f2b76-96b4-4dfc-ad96-563cfe7ea57f.png)
+- 2021-9-19 10:39:34
+- ![image](https://user-images.githubusercontent.com/43311626/133913588-053f83d7-547e-4646-a840-a0fa5cfee58d.png)
+
 
 
 # Work Together
