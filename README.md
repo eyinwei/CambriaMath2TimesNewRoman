@@ -13,6 +13,16 @@ Quick use see the section of *How to use*
 	- Tip: Before replace, you can sort the Glyps in both two fonts first in order to compare the difference between the two
 	- I have only replaced the following 6 groups, enough for me.
 	- ![02bcb68c68e4d8fe289d5d1cfccdf82](https://user-images.githubusercontent.com/43311626/133887543-39aa7385-6f33-493c-947c-b49098c7d6c1.png)
+	- Mathmatical is added.
+	
+- Here is a try to generate italic fonts, which are replaced by timesi, and following parts are modeified:
+	1. Basic latin
+	2. Latin-1 supplement
+	3. Superscripts
+	4. Number forms
+	5. Greek and coptic
+	6. Mathmatical
+- But it doesn't work. I have no idea how to modify the italic elements.
 
 - Export the new fonts (then open it and see are there any mistakes, sometimes the order will be wrong)
 - Install the new font for all users, and delete the older Cambria in the setting of Microsoft.
